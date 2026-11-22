@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://azizdesigns.studio/sitemap.xml
